@@ -1,5 +1,6 @@
 # Block-AR
 Projeto de realidade aumentada de aplicação com programação em blocos.
+Para rodar: instale o pacote Vuforia no projeto após importar. (Precisa de câmera para detectar os alvos)
 
 Créditos de Modelos 3D
 - Tronco: "Low-Poly Log" (https://skfb.ly/6XqL9) by Emilio Blacksmith is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
